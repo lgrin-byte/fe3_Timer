@@ -61,7 +61,7 @@ btnStart.addEventListener("click", () => {
             }
             if(setTime==0){
                 
-                setTimeout(countF,1)}
+                setTimeout(countF,1)} // 
         }, 1000);
 
         let setT = setTimeout(function () {
